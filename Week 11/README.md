@@ -2,3 +2,4 @@
 Zeyad Alaoui created the Mana script.
 Connor Pawelek created the Health Pack script.
 Dalayne Herrera created the Trap script.
+I used the Player Health script as a base.
